@@ -1,7 +1,8 @@
 ---
-title: 2nd  December Lesson
+title: Trusting the internet and Hacks
 layout: post
 author: nathan.higgins
+permalink: /trusting-the-internet-and-hacks/
 source-id: 1OzREP44x4m8X1w-BFFn967p3d3c9G06Y2JIz6R7282k
 published: true
 ---
