@@ -2,7 +2,7 @@
 title: 2nd  December Lesson
 layout: post
 author: nathan.higgins
-permalink: /untitled-document/
+permalink: http://dbtek.github.io/dbyll  
 source-id: 1OzREP44x4m8X1w-BFFn967p3d3c9G06Y2JIz6R7282k
 published: true
 ---
