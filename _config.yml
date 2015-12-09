@@ -17,13 +17,13 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
+  name: Nathan
   email: nathan.higgins@challoners.org
-  github: dbtek
+  github: RedBear17
   twitter: dbtek
   pinterest: asd123
   linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  bio: Amazing
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
