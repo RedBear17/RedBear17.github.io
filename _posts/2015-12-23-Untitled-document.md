@@ -28,5 +28,9 @@ To represent the number 255 in binary, it takes 8 digits. That's a lot, consider
 
 This is because the hex system is base-sixteen, and 162 = 256.This means, the highest number that can be represented with two digits in hex is 255. In other words, any 8-digit binary byte can be represented as a 2-digit hex byte.This is great for both computers and humans. For computers, it saves space, and for humans, it improves readability. Hex uses numbers 0-9 and letters A-F.
 
+Here are the first 32 numbers of hex:
+
+1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,10,11,12,13,14,15,16,17,18,19,1A,1B,1C,1D,1E,1F,20
+
  This is why colour codes are, for example,#FFFFFF=White. All the letters and numbers can make colours.A computer can produce 16.8 million colours. This is because 255x255x255=18.6 billion. If the computer had more storage it could have more colours. 
 
