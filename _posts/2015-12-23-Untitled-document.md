@@ -18,7 +18,7 @@ As you can see, the binary system counts up in a logical order, whenever a numbe
 
 However, binary numbers in a computing context are always represented in 8 digits, therefore 8 binary digits form one byte. There is 255 bits(the smallest amount of storage) in a byte. In binary 11111111=255.So, there is(in binary) 11111111 bits in a byte.
 
-This is a table translating decimal                                                                                                       into hex and binary.                                 
+                               
 
 **_Hexadecimal(Hex)_**
 
