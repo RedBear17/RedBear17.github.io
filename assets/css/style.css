@@ -1,8 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
-     from {background-color: red;}
-     to {background-color: yellow;}
+   color:#000001 
 }
 
 .sidebar {
