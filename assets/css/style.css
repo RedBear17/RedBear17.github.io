@@ -2,15 +2,18 @@
 
 body{
    color: #034678 
-
+ 
 }
 
+#grad {
+	background: linear-gradient(red, yellow); /* Standard syntax */
+}
 .sidebar {
 	position: fixed;
 	top: 0px;
 	padding-top: 10%;
 	background-color: #000033;
-	color: #cc9900;
+	color:#003985
 }
 
 .sidebar-header {
