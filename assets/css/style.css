@@ -11,6 +11,7 @@ body{
 	padding-top: 10%;
 	background-color: #000033;
 	color:#003985
+	
 }
 
 .sidebar-header {
@@ -101,7 +102,7 @@ article{
     border: 2px solid  #000000;
     padding: 20px;  
     background-image: url(https://amxxcs.ru/download/cool-technology-backgrounds-tfilzcU)
-
+    color:#000033
 {
 	text-transform: uppercase;
 	font-size: 14px;
@@ -173,7 +174,7 @@ footer {
     border-radius: 4px 0 0 4px;
 }
 
-.badge { background#000099 }
+.badge { background#000033 }
 
 #nav-menu{
     position: fixed;
