@@ -6,13 +6,7 @@ permalink: /project-1-round-up/
 source-id: 1L5NLqY-bsVBEgoKcBy1hn6VDOu9JuT9wOhXp1prZis0
 published: true
 ---
-table }
-    border-collapse: collapse;
-}
-
-table, th, td {
-    border: 1px solid black;
-}
+<table>
 <tr>
     <td>Title</td>
     <td>Project Round Up</td>
