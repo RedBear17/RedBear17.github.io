@@ -3,7 +3,7 @@
 body{
    color: 
      text-align: centre; 
-     background: linear-gradient(black, white); /* Standard syntax */
+     background: linear-gradient(blue, gold); /* Standard syntax */
 }
 .sidebar {
 	position: fixed;
