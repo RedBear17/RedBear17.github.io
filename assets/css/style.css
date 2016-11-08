@@ -3,7 +3,7 @@
 body{
    color: 
      text-align: centre; 
-     background: linear-gradient(black, grey); /* Standard syntax */
+     background: linear-gradient(ink, posy); /* Standard syntax */
 }
 .container{
            background: #000100;
