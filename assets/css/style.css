@@ -3,7 +3,8 @@
 body{
      text-color: #FFFFFF;
      text-align: centre; 
-     background: #18121E ;
+     background: url(img_flwr.gif) right bottom no-repeat, url(paper.gif) left top repeat;
+}
 }
 .container{
            
