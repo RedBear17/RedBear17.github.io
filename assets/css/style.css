@@ -106,6 +106,11 @@ article{
     border: 2px solid  
     color: #FFFFFF
     padding: 20px; 
+    border-radius: 15px 50px 30px 5px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
 {
 	text-transform: uppercase;
 	font-size: 14px;
