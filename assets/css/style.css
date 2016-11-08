@@ -5,6 +5,8 @@ body{
      text-align: centre; 
      background: linear-gradient(white, blue); /* Standard syntax */
 }
+.container {
+           background: #123443
 .sidebar {
 	position: fixed;
 	top: 0px;
