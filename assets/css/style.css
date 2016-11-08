@@ -6,13 +6,13 @@ body{
      background: linear-gradient(black, grey); /* Standard syntax */
 }
 .container{
-           background: #000100
+           background: #000100;
 }
 .sidebar {
 	position: fixed;
 	top: 0px;
 	padding-top: 10%;
-	background-color: #000033;
+	background-color: #000000;
 	color:#003985
 	
 }
