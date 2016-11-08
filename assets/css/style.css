@@ -126,9 +126,8 @@ table {
 
 th {
     height: 50px;
-
-th {
-    text-align: left;
+    color: #8b0000
+}
 }
 th, td {
     padding: 15px;
