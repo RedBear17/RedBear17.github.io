@@ -111,7 +111,12 @@ article{
     background: #696969;
     padding: 20px; 
     width: 800px;
-    height: 500px; 
+    height: 500px;
+}
+    
+ table, th, td {
+   border: 1px solid black;
+
 {
 	text-transform: uppercase;
 	font-size: 14px;
