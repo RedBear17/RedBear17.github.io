@@ -126,6 +126,9 @@ table {
 
 th {
     height: 50px;
+
+th {
+    text-align: left;
 }
 {
 	text-transform: uppercase;
