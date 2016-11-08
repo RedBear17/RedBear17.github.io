@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
-     text-color: #000000;
+     text-color: #FFFFFF;
      text-align: centre; 
      background: linear-gradient(#18121E, #233237 ); /* Standard syntax */
 }
@@ -87,7 +87,7 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #000033;
+	color: #FFFFFF;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
@@ -103,7 +103,7 @@ article{
 	margin-bottom: 20px;
     border-radius: 25px;
     border: 2px solid  
-    color: #00FF00
+    color: #FFFFFF
     padding: 20px; 
 {
 	text-transform: uppercase;
