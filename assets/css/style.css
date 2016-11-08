@@ -3,10 +3,10 @@
 body{
      text-color: #000000;
      text-align: centre; 
-     background: http://www.titanui.com/wp-content/uploads/2013/05/21/Fantastic-Abstract-HI-Tech-Background-Vector-01.jpg 
+     background: linear-gradient(#062F4F, #813772 ); /* Standard syntax */
 }
 .container{
-           background: #000100;
+           
 }
 .sidebar {
 	position: fixed;
