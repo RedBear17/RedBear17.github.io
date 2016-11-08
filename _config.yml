@@ -6,14 +6,14 @@ exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
 disqus: dbyll
-google_analytics: dbyll
+google_analytics: Nathan
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Nathan's Blog
 
 description: Stylish Jekyll Theme
 author:
@@ -24,7 +24,7 @@ author:
   pinterest: asd123
   linkedin: asd123
   bio: Amazing
-  email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: nathan.higgins@challoners.org
 
 rss_path: feed.xml
 categories_path: categories.html
