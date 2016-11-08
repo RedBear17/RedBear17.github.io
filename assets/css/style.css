@@ -6,7 +6,8 @@ body{
      background: linear-gradient(white, blue); /* Standard syntax */
 }
 .container {
-           background: #123443
+           background: #000100
+}
 .sidebar {
 	position: fixed;
 	top: 0px;
