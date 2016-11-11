@@ -47,13 +47,13 @@ published: true
     <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
-    <td>The things that limited my learning was that our work from last time didn’t save properly so we had to start the project again. Luckily, we didn’t get that far so there was not that much to do again but it still was annoying. Also, we need to pay close attention to the code as if you miss one thing(like a semicolon) the whole code is wrong. Luckily, it tells you where you went wrong so you can correct your mistakes easily.</td>
+    <td>The things that limited my learning was that we weren't paying close attention to our work from last time so our work didn’t save properly so we had to start the project again. Luckily, we didn’t get that far so there was not that much to do again but it still was annoying. Also, we need to pay close attention to the code as if you miss one thing(like a semicolon) the whole code is wrong. Luckily, it tells you where you went wrong so you can correct your mistakes easily.</td>
   </tr>
   <tr>
     <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>Next time, I will save my work properly and make sure I saved it right by checking it work when opening the file. Also, I will check my code so I can spot any mistakes I make. In addition pay more attention to the code so I don’t make the minor mistakes in the first place. That is how I will improve for next time when coding. Also, with the blog customisation, I will be able to change things quicker as I have got the code I want down and all I have to do is change the colours.</td>
+    <td>Next time, I will pay more attention to my work-I will save my work properly and make sure I saved it right by checking it work when opening the file. Also, I will check carefully my code so I can spot any mistakes I make. In addition pay more attention to the code so I don’t make the minor mistakes in the first place. That is how I will improve for next time when coding. Also, with the blog customisation, I will be able to change things quicker as I have got the code I want down and all I have to do is change the colours.</td>
   </tr>
 </table>
 
