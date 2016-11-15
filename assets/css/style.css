@@ -124,13 +124,13 @@ table {
     width: 100%;
 }
 
-th {
+table, th {
     height: 30px;
     color: #8b0000
 }
 }
 th, td {
-    padding: 5px;
+    padding: 6px;
     text-align: left;
 }
 {
