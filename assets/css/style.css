@@ -123,10 +123,11 @@ article{
 table {
     width: 100%;
 }
-
-table, th {
+ th {
     height: 30px;
-    color: #8b0000
+     background-color: #4CAF50;
+    color: white;
+}
 }
 }
 th, td {
