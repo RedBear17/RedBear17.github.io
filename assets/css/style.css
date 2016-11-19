@@ -4,6 +4,7 @@ body{
      text-color: #FFFFFF;
      text-align: centre; 
      background: url(https://s-media-cache-ak0.pinimg.com/736x/c9/5b/c5/c95bc58a334b78e83705f52f9745f803.jpg)
+     background-opacity: 0.5;
 }
 }
 .container{
@@ -110,7 +111,6 @@ article{
     padding: 20px; 
     border-radius: 15px 50px 30px 5px;
     background: #696969;
-    border-opacity: 0.5;
     padding: 20px; 
     width: 700px;
     height: 600px;
