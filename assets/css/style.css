@@ -110,6 +110,7 @@ article{
     padding: 20px; 
     border-radius: 15px 50px 30px 5px;
     background: #696969;
+    background-opacity: 0.5;
     padding: 20px; 
     width: 700px;
     height: 600px;
@@ -120,7 +121,6 @@ article{
   
  table, th, td {
    border: 1px solid black;
-   opacity: 0.5;
 
 table {
     width: 100%;
