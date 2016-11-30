@@ -21,6 +21,7 @@ body{
 .sidebar-header {
 	text-align: center;
 	margin-bottom: 10px;
+        font-family: "Times New Roman", Times, serif;
 }
 .sidebar-header .title{
 	letter-spacing: 3px;
