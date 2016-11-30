@@ -1,10 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
-     text-color: #FFFFFF;
+     text-color: #003985;
      text-align: centre; 
      background: url(https://s-media-cache-ak0.pinimg.com/736x/c9/5b/c5/c95bc58a334b78e83705f52f9745f803.jpg)
-     opacity:0.5;
 }
 }
 .container{
