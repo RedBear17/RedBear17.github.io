@@ -127,9 +127,9 @@ table {
     width: 100%;
 }
  th {
-    height: 30px;
-    background: #000001;
-    padding: 5px;
+    height:30px;
+    background:#FF5733;
+    padding:5px;
 }
 }
 th, td {
