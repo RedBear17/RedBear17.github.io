@@ -118,7 +118,6 @@ article{
   table {
     border-collapse: collapse;
     align: middle;
-    text-color:white
 }
   
  table, th, td {
@@ -130,7 +129,7 @@ table {
 }
  table, th {
     height: 30px;
-    color: #FF5733;
+    color: #FFFFFF;
     padding: 5px;
 }
 }
