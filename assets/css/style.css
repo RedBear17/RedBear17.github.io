@@ -129,8 +129,9 @@ table {
 }
  table, th {
     height: 30px;
-    color: #FFFFFF;
+    color: #FF0000;
     padding: 5px;
+    opacity: 0.5;
 }
 }
 th, td {
