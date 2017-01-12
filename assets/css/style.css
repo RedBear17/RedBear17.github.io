@@ -3,16 +3,15 @@
 body{
      text-color: #ffffff;
      text-align: left; 
-     background: url(https://s-media-cache-ak0.pinimg.com/736x/c9/5b/c5/c95bc58a334b78e83705f52f9745f803.jpg);
-     border-radius: 25px;
-     background: #73AD21;
-     padding: 20px; 
-     width: 200px;
-     height: 150px; 
-}
+     background: url(https://s-media-cache-ak0.pinimg.com/736x/c9/5b/c5/c95bc58a334b78e83705f52f9745f803.jpg); 
 }
 .container{
-           
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 150px;
+    height: 100px; 
+
 }
 .sidebar {
 	position: fixed;
