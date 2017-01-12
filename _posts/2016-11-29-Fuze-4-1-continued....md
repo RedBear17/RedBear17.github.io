@@ -11,7 +11,7 @@ published: true
     <th>Title</th>
     <td>Fuze 4-1 continued</td>
   <tr>  
-</table>
+<table>
  
 <table>
   <tr>
