@@ -114,6 +114,7 @@ article{
     padding: 20px; 
     width: 700px;
     height: 600px;
+    opacity:0.5;
 }
   table {
     border-collapse: collapse;
