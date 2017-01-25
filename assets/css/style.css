@@ -106,9 +106,7 @@ article{
            background-repeat: no-repeat, repeat;
            color: #FFFFFF ;
            font-family: "Times New Roman", Times, serif;
-        ::first-letter 
-        color: #ff0000;
-        font-size:200%;
+        
 }
 
 .article_body{
@@ -143,6 +141,9 @@ table {
     padding: 5px;
     opacity: 0.5;
     width: 50%;
+    ::sfirst-letter 
+        color: #ff0000;
+        font-size:200%; 
 }
 }
 th, td {
