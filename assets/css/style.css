@@ -19,7 +19,7 @@ post{
 	position: fixed;
 	top: 0px;
 	padding-top: 10%;
-	background-color: #262626;
+        background: linear-gradient(red, yellow);
 	color:#f2f2f2
 	
 }
