@@ -106,6 +106,9 @@ article{
            background-repeat: no-repeat, repeat;
            color: #FFFFFF ;
            font-family: "Times New Roman", Times, serif;
+        ::first-letter 
+        color: #ff0000;
+        font-size:200%;
 }
 
 .article_body{
