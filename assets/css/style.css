@@ -3,13 +3,8 @@
 body{
      text-color: #ffffff;
      text-align: left; 
-     background: url(https://s-media-cache-ak0.pinimg.com/736x/c9/5b/c5/c95bc58a334b78e83705f52f9745f803.jpg); 
-    border-radius: 15px 50px 30px 5px;
-    background: #696969;
-    padding: 20px; 
-    width: 100%;
-    height: 100%;
-    opacity:0.8;
+     background: url(https://s-media-cache-ak0.pinimg.com/736x/c9/5b/c5/c95bc58a334b78e83705f52f9745f803.jpg);
+
 }
 post{ 
 	 border-radius: 25px;
