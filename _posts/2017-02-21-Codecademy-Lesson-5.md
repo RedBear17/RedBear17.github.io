@@ -23,7 +23,7 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>33% of exercises completed</td>
   </tr>
   <tr>
