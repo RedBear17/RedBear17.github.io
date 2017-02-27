@@ -107,8 +107,14 @@ article{
            background-repeat: no-repeat, repeat;
            color: #FFFFFF ;
            font-family: "Times New Roman", Times, serif;
-        
 }
+	
+p::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+}
+        
+
 
 .article_body{
 	margin-top: 20px;
