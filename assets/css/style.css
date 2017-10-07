@@ -6,6 +6,9 @@ body{
      background: url(https://s-media-cache-ak0.pinimg.com/736x/c9/5b/c5/c95bc58a334b78e83705f52f9745f803.jpg);
 
 }
+img {
+    border-radius: 8px;
+}
 post{ 
 	 border-radius: 25px;
          background: #73AD21;
