@@ -4,6 +4,8 @@ body{
      text-color: #ffffff;
      text-align: left; 
      background: url(https://t4.ftcdn.net/jpg/01/29/87/89/240_F_129878907_zXhoaU4Ir7NbyMU7rOi2ZPTdZvp2v8ek.jpg);
+     background-repeat: no-repeat;
+	background- attachment: fixed;
 
 }
 img {
