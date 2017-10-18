@@ -18,4 +18,4 @@ Then finally we had to concatenate our code, this mean that the message is all i
 
 Then you do the same with the broken down cells but to the right. right(the cell where z, or the ze etc…). That is what we have done using spreadsheets.
 
-<iframe height="405px" width="720px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShm9DGx1crJ8KZueAECxzr2dM2Dkh8E8wx3A-MM6i8rwWShGhs0WDTHEH-MHgKe8pGZumhV-xaE1AB/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe height="405px" width="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShm9DGx1crJ8KZueAECxzr2dM2Dkh8E8wx3A-MM6i8rwWShGhs0WDTHEH-MHgKe8pGZumhV-xaE1AB/pubhtml?widget=true&amp;headers=false"></iframe>
