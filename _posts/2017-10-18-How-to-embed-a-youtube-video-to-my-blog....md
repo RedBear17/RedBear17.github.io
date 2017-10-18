@@ -8,4 +8,4 @@ published: true
 ---
 How to embed a youtube video to my blog...
 
-<iframe width="500" height="360" src="https://www.youtube.com/embed/bdnHKdb-Oss" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/bdnHKdb-Oss" frameborder="0" allowfullscreen></iframe>
