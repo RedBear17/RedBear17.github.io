@@ -16,6 +16,6 @@ Then I created a section called quantity,where you type in how much of the item 
 
 Then I created a Total column. This multiplied the quantity and the unit price to get the total of that item. Then I got a sum total which got the sum of all the prices in the total column which would be the total amount spent in the shop. 
 
-That is how I made my Virtual Shop. Everything I explained showed below.
+That is how I made my Virtual Shop. Everything I explained showed below.(YOU CAN NOT CHANGE ANYTHING BELOW)
 
 <iframe height="405px" width="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTFxbTYrD7oE65CCmsaNBkBe416z-Hu8ndkkVyP3mLqcDcuXuE84_vYvVjQZOZQvwJ0SrOx2_L3tBzT/pubhtml?widget=true&amp;headers=false"></iframe>
