@@ -18,4 +18,4 @@ Then I created a Total column. This multiplied the quantity and the unit price t
 
 That is how I made my Virtual Shop. Everything I explained showed below.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTFxbTYrD7oE65CCmsaNBkBe416z-Hu8ndkkVyP3mLqcDcuXuE84_vYvVjQZOZQvwJ0SrOx2_L3tBzT/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe height="405px" width="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTFxbTYrD7oE65CCmsaNBkBe416z-Hu8ndkkVyP3mLqcDcuXuE84_vYvVjQZOZQvwJ0SrOx2_L3tBzT/pubhtml?widget=true&amp;headers=false"></iframe>
