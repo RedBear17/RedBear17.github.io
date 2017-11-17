@@ -24,3 +24,5 @@ Then I did the same but with an individual item discount. If you bought 5 or mor
 
 As you can see, it is the same principal. That is how I added discounts to my shop.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTFxbTYrD7oE65CCmsaNBkBe416z-Hu8ndkkVyP3mLqcDcuXuE84_vYvVjQZOZQvwJ0SrOx2_L3tBzT/pubhtml?widget=true&amp;headers=false"></iframe>
+
