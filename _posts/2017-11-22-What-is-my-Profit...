@@ -1,0 +1,32 @@
+---
+title: What is my Profit...?
+layout: post
+author: nathan.higgins
+permalink: /what-is-my-profit...?/
+source-id: 17o6JA_SRcYuy3ufr7IdKovM-wsNCcwOFy5zCQZQCydM
+published: true
+---
+In today's lesson, we learnt how to work out profit, expenditure, income, outcome, total profit etc… We did this so we knew if our shop was doing well or not and it tested us to see if we learnt the skills taught to us in the previous weeks.
+
+First we created a table with the following columns in order:
+
+ Item, Stock, Cost, Expenditure, Units sold, Price, Income, Profit.
+
+In the Item column, I put in the items that I was selling in my shop. In the Stock column, I put the amount of each item I have bought to sell. In the Cost column, I put how much it cost me to buy each item. In the expenditure column, I multiplied the number in the cell that had the stock in it (how much of the item I had) and the number in the cell with the Cost of each item for me to buy to get how much I have sent on that type of item in total(the expenditure). Then in the Units sold, I put how much of each item I have sold. In the price column, I put the amount of money I sold each type of item for. In the Income column, I multiplied the units sold and the rice column to get the income for each item. Underneath the Expenditure and the Income column, I created a cell that summed up the Expenditure and a cell that summed up the Income. In the Profit column, I minused the expenditure of the income for each item to get the profit. Then I created a cell that added the profits which gave a total profit.
+
+However, there are outcomes when creating a shop. For example, payment of employees, rent of shop, advertising etc… So I created a table with the following columns:
+
+Outcomes, Per Week, Per Month.
+
+And the following rows:
+
+Advertising, stock, rent, utility, employee 1 and employee 2
+
+It put the rows listed above in the Outcomes column. I put how much it cost per week for each outcome in the Per Week column. In the Per Month column I multiplied the number in the per Week by 4. For the employees I created a separate table to work out how much they get paid a week. For both employees I made a column where I put how many hours they work and week, a separate column for how much they get paid an hour and then a column that multiplies both columns together to get how much they get paid a week.
+
+Then I got a cell that works out my total outcomes per week by adding up all the thing in the er week column. Then to get my total outcomes per month I multiplied the cell with the tota outcomes per week by 4. The I did a cell that worked up my total incomes per week and per month. To get the per week it just needs to copy the number in the cell under profits which has the total profits per  week in my previous table. To get it er month I just multiplied it by 4 .  
+
+To get pre-tax profit per month, I just subtracted the total outcomes per month cell from the total incomes per month cell. To get total profit pre-tax per year,I just multiplied the cell with total profit pre-tax by 12. To get my total profit with tax, I just multiplied each cell by 0.825(assuming tax is 17.5% of the total profit) to get total profit per month and per year. 
+
+That is how I worked out how much profit my shop makes.
+
