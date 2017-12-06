@@ -12,15 +12,15 @@ While loops are loops used for when you need to keep something going until you w
 
 For example, here is a while loop:
 
-Answer = pig
+        Answer = pig
 
-Guess=input("What is tasty, pink and has a tail?")
+        Guess=input("What is tasty, pink and has a tail?")
 
-while guess != answer:
+        while guess != answer:
 
-	print("That's wrong, try again")
+          print("That's wrong, try again")
 
-	guess = input("Guess the animal.")
+	  guess = input("Guess the animal.")
 
 * This will keep printing "That's wrong, try again" until the user guesses pig
 
@@ -28,7 +28,7 @@ For loops are used when you want the loop to stop after the loop repeating a cer
 
 For example, here is a for loop:
 
-for counter in range(10):
+    for counter in range(10):
 
 	print(counter)
 
