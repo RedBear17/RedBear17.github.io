@@ -14,9 +14,12 @@ A Function would be used where you need to store information the program is work
 
 Here is an example of functions and procedures used in Python:
 
+<iframe height="400px" width="100%" src="https://repl.it/@nathanhiggins/Year-9-function-and-prodcedures?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
 In computer program's, we learnt that things can not possibly be random ever. If you program something to choose a number between 1 and 10, it won’t be random. There is a percentage chance of the number being 1, a percentage number for it being 2 ect...It is impossible for a computer program to do something at random as it can't.  We looked at a game called Backgammon which is a game involving dice rolls, which are meant to be random, however it always seems the AI gets all the good rolls when it needs them which is very unlikely to happen every time and when you need to get a roll, you don’t get them.
 
 The only thing which is truly random in computer programs, is if you use truly random numbers. This is where the computer measures some type of physical phenomenon that takes place outside of the computer. For example, the noise level of somewhere outside. Someone would record the sound through a microphone and measure it and use that number to generate a truly random number. That is what we learnt in today's lesson.
 
 Here is my own AI chatbot:
 
+<iframe height="400px" width="100%" src="https://repl.it/@nathanhiggins/2017-yr9?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
