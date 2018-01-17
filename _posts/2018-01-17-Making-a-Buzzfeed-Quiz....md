@@ -22,5 +22,5 @@ If you choose the Slytherin answer the most you would be in Slytherin etc… How
 
 Another way of doing it is a point system. You ask a question and that question can have 4 answers for example. Each answer would be related to a house. If we take Slytherin, Slytherin could have be worth +10 points. So for every Slytherin answer, 10 points will be added to a score. Then for a Gryffindor answer, 10 points will be minused. You will start with a certain amount of points, 80 for example, and then at the end of all the questions, the amount of points left over will tell you what house you are in. For example, if you end up with 35 points, you are in Slytherin house. That is the system I am using for my Buzzfeed quiz.
 
-A plan of my Buzzfeed quiz will be the next post in my blog. That is what we did in today's lesson. 
+A plan of my Buzzfeed quiz is the post below this one in my blog. That is what we did in today's lesson. 
 
