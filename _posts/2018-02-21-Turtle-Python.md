@@ -1,3 +1,4 @@
+
 ---
 title: Turtle Python
 layout: post
@@ -16,5 +17,10 @@ To make patterns and other cool looking things in turtle python, you can change 
 
 Here is the pattern I created:
 
+<iframe height="400px" width="100%" src="https://repl.it/@nathanhiggins/turtle-shape?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
 Here are some patterns I found on the internet:
 
+<iframe height="400px" width="100%" src="https://repl.it/@nathanhiggins/turtle?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+<iframe height="400px" width="100%" src="https://repl.it/@nathanhiggins/cool-spirals?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
